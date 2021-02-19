@@ -1,4 +1,4 @@
-document.getElementById('click').addEventListener('click' ,movie)
+document.getElementById('click').addEventListener('click', movie)
 let age = 0
 
 function movie () {
