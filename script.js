@@ -9,7 +9,7 @@ function movie () {
     document.getElementById('name').innerHTML = 'you are allowed to watch  Harry Potter and the Sorcerer stone , freaky friday and the parent trap'
   } else if (age >= 5) {
     document.getElementById('name').innerHTML = 'you are allowed to watch Homealone, the little mermaid and toy story'
-  } else { 
+  } else {
     document.getElementById('name').innerHTML = 'you are not allowed to watch any movies'
   }
 }
